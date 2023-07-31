@@ -1,0 +1,9 @@
+Npm init
+
+And install the following dependancies:
+npm install express mongodb body-parser
+
+Database set up:
+create cluster and get keys and URIs to connect to the MongoDB database.
+
+
